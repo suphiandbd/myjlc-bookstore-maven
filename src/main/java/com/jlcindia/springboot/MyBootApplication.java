@@ -7,10 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MyBootApplication {
 public static void main(String[] args) {
 System.out.println("Starting Boot Application");
-System.out.println("Updated 1 By SufyanKhan");
-  System.out.println("Updated 2 By SufyanKhan");
-  System.out.println("Updated 3 By SufyanKhan");
-  System.out.println("Updated 4 By SufyanKhan");
-SpringApplication.run(MyBootApplication.class, args);
+System.out.println("Updated 1 By SufyanKhan Today");
+  SpringApplication.run(MyBootApplication.class, args);
 }
 }
