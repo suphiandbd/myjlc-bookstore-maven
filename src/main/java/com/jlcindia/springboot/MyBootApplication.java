@@ -8,6 +8,7 @@ public class MyBootApplication {
 public static void main(String[] args) {
 System.out.println("Starting Boot Application");
   System.out.println("Updating Boot Application");
+  System.out.println("Updating Boot Application 10");
   SpringApplication.run(MyBootApplication.class, args);
 }
 }
