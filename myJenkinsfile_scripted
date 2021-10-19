@@ -21,7 +21,7 @@ url: 'https://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git@github.com/suphiandbd/
 
    stage('my-code-packaging') { 
      sh 'mvn package'  
-     echo "Packaing Completed Successfully...."
+     echo "Packaing Completed Successfully..."
       }
 
 }
